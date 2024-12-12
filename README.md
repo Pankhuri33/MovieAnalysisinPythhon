@@ -1,0 +1,1 @@
+This project focuses on analyzing a dataset of movies using Python. The goal is to explore various features, visualize trends, and derive insights from the data. The analysis includes handling missing values, transforming categorical data, and generating meaningful visualizations and statistics.
